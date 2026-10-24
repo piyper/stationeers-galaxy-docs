@@ -183,9 +183,6 @@ character and inventory to another world.
 The Galaxy Logic Transmitter lets Stationeers automation on one world provide a logic value to another world. An IC10
 program can therefore observe a value produced on another planet and use it in local control logic.
 
-It is a separate Galaxy item. Ordinary Stationeers Logic Transmitters retain their normal behavior, and Galaxy does not
-change the IC10 language.
-
 ### Active and Passive units
 
 Galaxy transmitters use the familiar native programming model:
