@@ -8,6 +8,7 @@ send logic values between planets, and use inventories shared by dimensional ven
 
 - [What is Stationeers Galaxy?](#what-is-stationeers-galaxy)
 - [Joining and travelling through a Galaxy](#player-guide)
+- [Ways to travel between worlds](#ways-to-travel)
 - [Galaxy console commands](#galaxy-console-commands)
 - [Galaxy Logic Transmitter](#galaxy-logic-transmitter)
 - [Dimensional Vending](#dimensional-vending)
@@ -99,6 +100,18 @@ for deliberately retiring the existing Galaxy character and starting again at th
 
 Travel may be initiated by a Transporter or by other Galaxy-aware travel systems. During inter-world travel, a Galaxy
 Transit screen identifies the source and destination and may show that the destination is starting.
+
+### Ways to travel
+
+Galaxy supports different kinds of journeys between worlds:
+
+- **Rocket travel** lets players make the journey through flight, spending time, fuel, and power along the way.
+  Interplanetary rocket travel is under development.
+- **Inventory-preserving Transporter ports** carry the player's character and inventory to the destination world.
+- **Fresh-respawn Transporter ports** place the player in the destination world as a fresh spawn instead of carrying
+  their current character and inventory.
+
+### Travel transaction
 
 Travel follows a transaction:
 
