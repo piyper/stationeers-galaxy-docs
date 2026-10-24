@@ -176,8 +176,6 @@ trapped on a Galaxy world.
 This is a destructive respawn, not inventory-preserving travel. Use a destination pad when you want to carry your
 character and inventory to another world.
 
-Developer and diagnostic commands are not part of the public player command set.
-
 ---
 
 ## Galaxy Logic Transmitter
