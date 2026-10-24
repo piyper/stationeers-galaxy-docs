@@ -1,4 +1,4 @@
-Public documentation for **Stationeers Galaxy**, a system that connects multiple Stationeers worlds into one
+**Stationeers Galaxy** is a system that connects multiple Stationeers worlds into one
 coordinated multiplayer experience.
 
 Galaxy gives separate worlds a shared sense of place. Players can move between worlds, communicate across the Galaxy,
