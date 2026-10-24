@@ -194,7 +194,7 @@ The important values are:
 | Logic value | Active transmitter | Passive transmitter |
 | --- | --- | --- |
 | `Setting` | Read/write value to publish | Most recently delivered value from the selected Active unit |
-| `Error` | Reports Galaxy availability | `0` when the selected endpoint is available; `1` when its world is paused, offline, or otherwise unavailable |
+| `Error` | Standard device behavior | `0` for no error; `1` for any other error; `2` when the selected transmitter is unavailable |
 
 An IC Housing, Logic Writer, or another compatible Stationeers logic device can write `Setting` on an Active unit.
 Logic Readers and IC10 can read the Passive unit's `Setting` and `Error` values.
