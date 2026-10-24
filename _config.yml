@@ -2,11 +2,4 @@ title: Stationeers Galaxy
 description: Public player and host documentation for Stationeers Galaxy
 theme: minima
 markdown: kramdown
-header_pages:
-  - docs/overview.md
-  - docs/player-guide.md
-  - docs/commands.md
-  - docs/logic-transmitter.md
-  - docs/dimensional-vending.md
-  - docs/hosting.md
 
