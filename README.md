@@ -362,7 +362,7 @@ A Galaxy administrator creates a world slot and gives the world operator a one-t
 server console, the operator runs:
 
 ```text
-rt galaxy enroll <one-time-token>
+galaxy enroll <one-time-token>
 ```
 
 The world claims the token once and stores its own revocable credential. The token itself is not a permanent password
