@@ -1,5 +1,3 @@
-# Stationeers Galaxy Documentation
-
 Public documentation for **Stationeers Galaxy**, a system that connects multiple Stationeers worlds into one
 coordinated multiplayer experience.
 
